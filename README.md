@@ -32,3 +32,6 @@ The `smb` service contains a memory corruption vulnerability. Remote, unauthenti
 
 # Affected Version
 This vulnerability was initially found in RouterOS stable `6.40.5`.
+
+# Timeline
+- 11/21/2024: Report this vulnerability to vendor
